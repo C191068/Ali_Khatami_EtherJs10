@@ -21,6 +21,9 @@ We can run it locally and just connect it to our Geth node <br>
 
 here we gonna use third party RPC URL <br>
 
+Alchemy has a node as a service and allow us to conncet any blockchain they have support for <br>
+
+
 
 
 
