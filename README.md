@@ -120,6 +120,9 @@ Now we will paste the private here shown above <br>
 
 we grabing RPC URL and PRIVATE KEY from .env file <br>
 
+that points to Sepolia metamask and sepolia blockchain <br>
+
+
 
 
 
