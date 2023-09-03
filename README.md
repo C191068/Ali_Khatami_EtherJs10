@@ -45,6 +45,10 @@ after sign up and sign in we can open the dashboard <br>
 
 here we will select the above button <br>
 
+![m38](https://github.com/C191068/Ali_Khatami_EtherJs10/assets/89090776/e45b79b5-3a4c-43eb-a7b6-35f75da219b1)
+
+here at fisrt we gonna Ethereum blockchain and then as a network Ethereum Sepolia <br>
+
 
 
 
