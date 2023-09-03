@@ -116,6 +116,11 @@ thus we have our private key <br>
 Now we will paste the private here shown above <br>
 
 
+![m51](https://github.com/C191068/Ali_Khatami_EtherJs10/assets/89090776/60c0262a-05e7-4318-b4bd-c00531d0da09)
+
+we grabing RPC URL and PRIVATE KEY from .env file <br>
+
+
 
 
 
