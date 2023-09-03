@@ -56,6 +56,9 @@ then give name and description and click create app <br>
 here we can see ton of information about the node and different ways to conncet to the node <br>
 
 
+![m40](https://github.com/C191068/Ali_Khatami_EtherJs10/assets/89090776/81f667f1-1b5b-4f37-8368-ab6738a1220a)
+
+this gonna be very similiar to RPC server at ganache <br>
 
 
 
