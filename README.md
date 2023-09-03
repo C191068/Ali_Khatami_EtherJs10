@@ -8,6 +8,6 @@ on a Sepolia testnet <br>
 
 ![m34](https://github.com/C191068/Ali_Khatami_EtherJs10/assets/89090776/639b537f-fe1c-4358-a267-1f4b30218a9b)
 
-to begin our transcation we need RPC URL and private key <br>
+to make transcation on blockchain  we need RPC URL and private key <br>
 
 
