@@ -60,11 +60,16 @@ here we can see ton of information about the node and different ways to conncet 
 
 this gonna be very similiar to RPC server at ganache <br>
 
-
-
 except it gonna be aconncetion to a real tset
 
 
+![m41](https://github.com/C191068/Ali_Khatami_EtherJs10/assets/89090776/17bce838-7983-499d-a504-490917e166b0)
+
+here we select the view key <br>
+
+![m42](https://github.com/C191068/Ali_Khatami_EtherJs10/assets/89090776/2ed06a8d-c263-4d71-ae52-6fd9ba41f92f)
+
+here we can see we have the API key ,HTTPS and websocket <br>
 
 
 
