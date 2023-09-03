@@ -96,6 +96,9 @@ here where we can use our metamask <br>
 the above is our metamask account <br>
 
 
+![m47](https://github.com/C191068/Ali_Khatami_EtherJs10/assets/89090776/829684f3-796f-44ed-a58d-927337a49695)
+
+we will click the three dots here <br>
 
 
 
