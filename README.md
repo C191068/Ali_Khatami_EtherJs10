@@ -143,6 +143,10 @@ at first transaction we got the contract address and the current number <br>
 and in the second transaction we got the updated number <br>
 
 
+Now after running a command if we want to kill it <br>
+
+we can do ```Ctrl+C``` and it will stop it <br>
+
 
  
 
