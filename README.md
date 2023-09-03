@@ -76,6 +76,9 @@ here we can see we have the API key ,HTTPS and websocket <br>
 we are only concerned with the HTTP endpoint <br>
  This gonna be tha RPC URL that connects to Sepolia <br>
 
+![m44](https://github.com/C191068/Ali_Khatami_EtherJs10/assets/89090776/fb4df235-447a-4643-b7d0-771709bf5524)
+
+ So we gonna copy the baove HTTP end point <br>
 
  
 
