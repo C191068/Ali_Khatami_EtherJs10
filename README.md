@@ -17,5 +17,9 @@ If we want to do everything on our own in a full decentralized context  <br>
 
 we can run Sepolia version of Geth <br>
 
+We can run it locally and just connect it to our Geth node <br>
+
+
+
 
 
