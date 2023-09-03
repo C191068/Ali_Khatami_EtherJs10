@@ -13,3 +13,5 @@ to make transcation on blockchain  we need RPC URL and private key <br>
 So we all gonna need Sepolia RPC URL and Sepolia private key <br>
 
 
+If we want to do everything on our own <br>
+
