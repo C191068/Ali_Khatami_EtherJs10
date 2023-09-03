@@ -126,6 +126,12 @@ that points to Sepolia metamask and sepolia blockchain <br>
 now just add console.log under our contract deployment <br>
  so that we know wht address it is at <br>
 
+![m52](https://github.com/C191068/Ali_Khatami_EtherJs10/assets/89090776/b9f6173f-bd37-49d4-a95d-016dcf7c8b9d)
+
+ when we deploy this we will notice that it will take longer <br>
+
+ because we are deploying this to a testnet instead of our own fake local blockchain <br>
+
 
  
 
