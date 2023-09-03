@@ -37,6 +37,22 @@ we will go the above link https://www.alchemy.com/ <br>
 and we will click here ```Get Started for free ``` and create a new account  <br>
 
 
+![m36](https://github.com/C191068/Ali_Khatami_EtherJs10/assets/89090776/e3a408b3-96eb-42e6-b392-9a3ea99f5f71)
+
+after sign up and sign in we can open the dashboard <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
