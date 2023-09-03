@@ -106,6 +106,9 @@ we will click the three dots here <br>
 we gonna click here show private key <br>
 
 
+![m49](https://github.com/C191068/Ali_Khatami_EtherJs10/assets/89090776/217a1d61-6c21-4290-b3a8-95c304bae847)
+
+thus we have our private key <br>
 
 
 
