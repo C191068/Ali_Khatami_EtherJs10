@@ -138,6 +138,11 @@ testnet and real network often will take little bit longer <br>
 
 because they need to wait for the blocks to propagate transactions to go through <br>
 
+at first transaction we got the contract address and the current number <br>
+
+and in the second transaction we got the updated number <br>
+
+
 
  
 
