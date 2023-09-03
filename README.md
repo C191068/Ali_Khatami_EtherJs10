@@ -147,8 +147,19 @@ Now after running a command if we want to kill it <br>
 
 we can do ```Ctrl+C``` and it will stop it <br>
 
+![m54](https://github.com/C191068/Ali_Khatami_EtherJs10/assets/89090776/11708ac5-4fcb-47e5-a803-c66cfb9fd525)
 
- 
+now we will cipy the above contract address <br>
+
+![m53](https://github.com/C191068/Ali_Khatami_EtherJs10/assets/89090776/7f862126-385f-45d0-a502-641933061b1f)
+then we will paste it here at the link https://sepolia.etherscan.io/ <br>
+
+we can see here two transactions <br>
+
+
+
+
+
 
 
 
