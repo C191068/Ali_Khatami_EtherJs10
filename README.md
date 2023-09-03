@@ -101,6 +101,10 @@ the above is our metamask account <br>
 we will click the three dots here <br>
 
 
+![m48](https://github.com/C191068/Ali_Khatami_EtherJs10/assets/89090776/4a504fb3-ffa0-476e-a80b-89d5bb6c2620)
+
+we gonna click here show private key <br>
+
 
 
 
