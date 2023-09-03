@@ -62,7 +62,7 @@ this gonna be very similiar to RPC server at ganache <br>
 
 
 
-
+except it gonna be aconncetion to a real tset
 
 
 
