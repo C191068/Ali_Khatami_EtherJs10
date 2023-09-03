@@ -124,7 +124,10 @@ that points to Sepolia metamask and sepolia blockchain <br>
 
 
 now just add console.log under our contract deployment <br>
+ so that we know wht address it is at <br>
 
+
+ 
 
 
 
