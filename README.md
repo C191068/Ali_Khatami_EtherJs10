@@ -111,6 +111,9 @@ we gonna click here show private key <br>
 thus we have our private key <br>
 
 
+![m50](https://github.com/C191068/Ali_Khatami_EtherJs10/assets/89090776/99d79df2-8c2e-414d-8195-8fb44a48ed46)
+
+Now we will paste the private here shown above <br>
 
 
 
