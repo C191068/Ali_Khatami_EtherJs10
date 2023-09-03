@@ -51,6 +51,10 @@ here at fisrt we gonna Ethereum blockchain and then as a network Ethereum Sepoli
 
 then give name and description and click create app <br>
 
+![m39](https://github.com/C191068/Ali_Khatami_EtherJs10/assets/89090776/a32bde4c-03d4-45fa-b144-c27f59972226)
+
+here we can see ton of information about the node and different ways to conncet to the node <br>
+
 
 
 
