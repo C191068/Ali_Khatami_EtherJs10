@@ -1,0 +1,13 @@
+{
+  "name": "akrkethers-simple-storage",
+  "packageManager": "yarn@3.6.1",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "^5.4.5",
+    "fs-extra": "^11.1.1",
+    "solc": "0.8.7-fixed"
+  },
+  "scripts": {
+    "compile": "yarn solcjs --bin --abi --allow-paths node_modules/ --base-path . -o . akrkSimplestorage.sol"
+  }
+}
