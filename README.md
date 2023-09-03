@@ -15,3 +15,7 @@ So we all gonna need Sepolia RPC URL and Sepolia private key <br>
 
 If we want to do everything on our own in a full decentralized context  <br>
 
+we can run Sepolia version of Geth <br>
+
+
+
