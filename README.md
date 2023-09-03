@@ -10,4 +10,6 @@ on a Sepolia testnet <br>
 
 to make transcation on blockchain  we need RPC URL and private key <br>
 
+So we all gonna need Sepolia RPC URL and Sepolia private key <br>
+
 
