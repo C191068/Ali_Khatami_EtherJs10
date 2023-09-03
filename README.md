@@ -133,6 +133,12 @@ now just add console.log under our contract deployment <br>
  because we are deploying this to a testnet instead of our own fake local blockchain <br>
 
 
+
+testnet and real network often will take little bit longer <br>
+
+because they need to wait for the blocks to propagate transactions to go through <br>
+
+
  
 
 
