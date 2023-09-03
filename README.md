@@ -34,7 +34,7 @@ we will go the above link https://www.alchemy.com/ <br>
 
 ![m35](https://github.com/C191068/Ali_Khatami_EtherJs10/assets/89090776/11c6532b-a709-482e-9c5a-a2312191aae8)
 
-and we will click here ```Get Started for free ``` <br>
+and we will click here ```Get Started for free ``` and create a new account  <br>
 
 
 
