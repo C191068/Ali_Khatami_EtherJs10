@@ -123,6 +123,8 @@ we grabing RPC URL and PRIVATE KEY from .env file <br>
 that points to Sepolia metamask and sepolia blockchain <br>
 
 
+now just add console.log under our contract deployment <br>
+
 
 
 
