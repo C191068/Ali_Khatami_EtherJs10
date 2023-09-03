@@ -157,7 +157,10 @@ then we will paste it here at the link https://sepolia.etherscan.io/ <br>
 we can see here two transactions <br>
 
 
+![m55](https://github.com/C191068/Ali_Khatami_EtherJs10/assets/89090776/d781971a-89f1-4458-8d0a-e77e2b57a9a9)
 
+
+here we can see we have a contract creation at the bottom and we have a store function at the top <br>
 
 
 
