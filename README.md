@@ -49,6 +49,9 @@ here we will select the above button <br>
 
 here at fisrt we gonna Ethereum blockchain and then as a network Ethereum Sepolia <br>
 
+then give name and description and click create app <br>
+
+
 
 
 
